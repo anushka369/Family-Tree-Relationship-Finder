@@ -24,16 +24,22 @@ The **Family Tree Relationship Finder** is a Python-based program that utilizes 
 ---
 
 ## Installation & Setup ⚙
+
 1. Ensure **Python 3** is installed on your system.
+
 2. Install required dependencies using pip:
    ```sh
    pip install pyDatalog graphviz
    ```
+
 3. Ensure Graphviz is installed and added to the system path (if not installed, download from [Graphviz](https://graphviz.gitlab.io/download/)).
+
+---
 
 ## How to Run 💻
 
 1. Save the script as `family_tree.py`.
+
 2. Run the program:
    ```sh
    python family_tree.py
@@ -85,6 +91,8 @@ The **Family Tree Relationship Finder** is a Python-based program that utilizes 
 - User input is case-sensitive.
 - The visualization only represents direct parent-child relationships.
 
+---
+
 ## Future Improvements 🎯
 - Implement a database (SQLite or MongoDB) for persistent storage.
 - Add GUI support for a more interactive experience.
@@ -92,5 +100,19 @@ The **Family Tree Relationship Finder** is a Python-based program that utilizes 
 
 ---
 
+## Contributing 🤝
+
+This is a personal learning project, but contributions and suggestions are welcome! 
+<br> If you find any improvements, feel free to create a pull request. To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature/bug fix.
+
+3. Commit your changes and submit a pull request.
+
+---
+
 ## Author 📎
-_Anushka Banerjee_
+Developed by **Anushka Banerjee** <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
