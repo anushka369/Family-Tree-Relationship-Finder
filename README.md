@@ -31,7 +31,8 @@ The **Family Tree Relationship Finder** is a Python-based program that utilizes 
    ```
 3. Ensure Graphviz is installed and added to the system path (if not installed, download from [Graphviz](https://graphviz.gitlab.io/download/)).
 
-## How to Run
+## How to Run 💻
+
 1. Save the script as `family_tree.py`.
 2. Run the program:
    ```sh
@@ -41,7 +42,7 @@ The **Family Tree Relationship Finder** is a Python-based program that utilizes 
 
 --- 
 
-## User Guide 💻
+## User Guide 📝
 
 ### Adding a Parent-Child Relationship
 1. Select option **1** in the menu.
